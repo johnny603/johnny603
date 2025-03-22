@@ -24,8 +24,7 @@ Cybersecurity & Ethical AI practices
 
 📫 Let's Connect!
 📧 Email: johnnysantamaria603@gmail.com
-🔗 LinkedIn: linkedin.com/in/johnnysantamaria
-
+🔗 LinkedIn: linkedin.com/in/johnnyds
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Johnny603/30-nites-of-code)  
