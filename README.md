@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Johnny Santamaria!
 ## 🚀 Aspiring Software Engineer & IT Specialist | 🎨 Tech & Design Enthusiast | 🔐 Cybersecurity & AI Advocate
 
-I'm a Computer Science major at San Francisco State University, passionate about the intersection of technology, design, and user experience. With a background in IT, front-end development, and AI ethics, I enjoy building innovative solutions that enhance usability, security, and efficiency.
+I'm a Computer Science undergrad at San Francisco State University, passionate about the intersection of technology, design, and user experience. With a background in IT, front-end development, and AI ethics, I enjoy building innovative solutions that enhance usability, security, and efficiency.
 
 ## 🔧 Tech Stack & Skills
 💻 Programming: Python, Java, JavaScript, HTML/CSS, C++
