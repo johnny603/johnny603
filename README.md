@@ -25,3 +25,5 @@ Cybersecurity & Ethical AI practices
 📫 Let's Connect!
 📧 Email: johnnysantamaria603@gmail.com
 🔗 LinkedIn: linkedin.com/in/johnnyds
+
+[![An image of @johnny603's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johnny603)](https://holopin.io/@johnny603)
