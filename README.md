@@ -19,8 +19,9 @@ Cybersecurity & Ethical AI practices
 💡 Notable Projects & Contributions
 🔹 Built a Python-based study guide generator for students
 🔹 Developed Tkinter UI applications with ttkbootstrap & CustomTkinter
-🔹 Contributed to open-source projects in Python & JavaScript
+🔹 Contributed to open-source projects in high level and low level languages
 🔹 Contributed to Dagster, a widely recognized open-source project with 12.5K GitHub stars, designed to enhance data engineering workflows through robust data visualization and orchestration capabilities
+🔹 Contributed to Keyshade, an alpha-stage open-source project which is a scalable TypeScript monorepo secret management tool
 
 📫 Let's Connect!
 📧 Email: johnnysantamaria603@gmail.com
