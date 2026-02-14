@@ -22,6 +22,9 @@ Cybersecurity & Ethical AI practices
 🔹 Contributed to open-source projects in high level and low level languages
 🔹 Contributed to Dagster, a widely recognized open-source project with 12.5K GitHub stars, designed to enhance data engineering workflows through robust data visualization and orchestration capabilities
 🔹 Contributed to Keyshade, an alpha-stage open-source project which is a scalable TypeScript monorepo secret management tool
+Contributed to Keyshade, an alpha-stage open-source project which is a scalable TypeScript monorepo secret management tool, fixing critical environment lifecycle bugs in cloud integrations (Vercel & AWS Lambda) that eliminated security risks from orphaned credentials
+🔹 Implemented event-driven architecture patterns with retry logic, exponential backoff, and reconciliation systems for eventual consistency in distributed systems
+🔹 Navigated complex CI/CD debugging as an external contributor, resolving Snyk security scan failures and package manager compatibility issues
 
 📫 Let's Connect!
 📧 Email: johnnysantamaria603@gmail.com
