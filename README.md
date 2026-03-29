@@ -25,6 +25,7 @@ Cybersecurity & Ethical AI practices
 Contributed to Keyshade, an alpha-stage open-source project which is a scalable TypeScript monorepo secret management tool, fixing critical environment lifecycle bugs in cloud integrations (Vercel & AWS Lambda) that eliminated security risks from orphaned credentials
 🔹 Implemented event-driven architecture patterns with retry logic, exponential backoff, and reconciliation systems for eventual consistency in distributed systems
 🔹 Navigated complex CI/CD debugging as an external contributor, resolving Snyk security scan failures and package manager compatibility issues
+🔹 Resolved Python type hint mismatch in Dagster with str | MultiPartitionKey and a typed accessor
 
 📫 Let's Connect!
 📧 Email: johnnysantamaria603@gmail.com
